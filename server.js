@@ -50,7 +50,7 @@ app.post('/search', (req, res) => {
 });
 
 app.listen(process.env.PORT || 3000, ()=>{
-    console.log('server run 3k')
+    console.log('server run 3k');
 
 
 });
